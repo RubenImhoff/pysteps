@@ -70,7 +70,6 @@ setup(
         "Programming Language :: Python :: 3.13",
         "Operating System :: OS Independent",
     ],
-    ext_modules=external_modules,
     setup_requires=requirements,
     install_requires=requirements,
 )
